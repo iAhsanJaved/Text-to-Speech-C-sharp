@@ -1,0 +1,10 @@
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe.config
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\bin\Debug\Text to Speech.pdb
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csprojResolveAssemblyReference.cache
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.TextToSpeech.resources
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.CoreCompileInputs.cache
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text to Speech.exe
+C:\Users\iAhsa\source\repos\Text to Speech\Text to Speech\obj\Debug\Text to Speech.pdb
